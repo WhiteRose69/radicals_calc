@@ -7,6 +7,7 @@ P.s It's a simple code and my first on github so don't be cruel.
 #################
 HERE IS THE CODE I WROTE ON C++
 #################
+'''
 #include <iostream>
 #include <cmath>
 #include <unistd.h>
@@ -61,4 +62,4 @@ void ordinul()
         }
     }
 }
-###############################
+'''
